@@ -1,0 +1,19 @@
+{
+  "name": "cucumbertrial",
+  "version": "1.0.0",
+  "description": "My experiments with Cucumber and Gherkin",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [
+    "cucumber",
+    "gherkin",
+    "trial"
+  ],
+  "author": "James Wraith",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^4.2.1"
+  }
+}
