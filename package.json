@@ -2,6 +2,7 @@
   "name": "cucumbertrial",
   "version": "1.0.0",
   "description": "My experiments with Cucumber and Gherkin",
+  "repository": "https://github.com/wraithjpr/CucumberTrial.git",
   "main": "index.js",
   "scripts": {
     "test": "cucumber-js"
